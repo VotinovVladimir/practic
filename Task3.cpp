@@ -123,7 +123,7 @@ int main() {
                 cout << "Массив создан. ";
                 if (size <= 100) {
                     cout << "Содержимое:" << endl;
-                    printArray(originalArray, size);
+                    printArray(originalArray, size); 
                 } else {
                     cout << "Вывод содержимого пропущен из-за большого размера." << endl;
                 }

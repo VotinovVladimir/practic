@@ -6,7 +6,7 @@ using namespace std;
 
 struct Node {
     int key;
-    int count;
+    int count; 
     Node* left;
     Node* right;
     Node(int k) : key(k), count(1), left(nullptr), right(nullptr) {}

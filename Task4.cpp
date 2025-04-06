@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <ctime>
 
-using namespace std;
+using namespace std; 
 
 // Функция разделения массива
 int partition(vector<int>& arr, int low, int high, int& comparisons, int& swaps) {

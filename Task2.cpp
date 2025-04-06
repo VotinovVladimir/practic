@@ -3,7 +3,7 @@
 #include <string>
 #include <clocale>
 
-using namespace std;
+using namespace std; 
 
 #define M 11 // Измените это значение для тестов (11, 13, 17)
 
