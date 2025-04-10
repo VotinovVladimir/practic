@@ -1,8 +1,9 @@
+
 #include <iostream>
 #include <cstdlib>
 #include <string>
 
-using namespace std;
+using namespace std; // Необходимо указать пространство имен для использования стандартных функций
 
 struct Node {
     int key;
